@@ -1,8 +1,7 @@
 {
   "name": "eventime-deploy",
   "private": true,
-  "dependencies": {},
-  "devDependencies": {
-    "webpack": "^4.16.3"
+  "dependencies": {
+    "nod" : "6.11.5"
   }
 }
